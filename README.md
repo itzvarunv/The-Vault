@@ -148,6 +148,12 @@ python Check_of_password.py
 
 ---
 
+## Academic Context
+
+This project was built as a school assignment. Certain technical choices — specifically the use of `pickle` for data persistence — were made to satisfy course requirements rather than as a production recommendation. At the time, SQL had not yet been covered in the curriculum. The Roadmap below reflects what a natural evolution of this project would look like outside of those constraints.
+
+---
+
 ## Roadmap
 
 - [ ] Replace `pickle` with SQLite for safer, queryable persistence
